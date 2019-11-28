@@ -9,12 +9,12 @@
 
 <p> An Autoencoder for images works in two phases. A encoding phase, where the image is "encoded" into a particular latent space size, as seen below: </p>
 <div style="display:table-cell; vertical-align:middle; text-align:center">
-<img src="architecture/encoder.png" height="50%" width="50%">
+<img src="architecture/encoder.png" height="20%" width="20%">
 </div>
 
 <p> And a decoding phase, where the Neural Network "decodes" the entire image back using the latent code it was intially crunched into, as seen below:</p>
 
-<img src="architecture/decoder.png" height="50%" width="50%" align="center">
+<img src="architecture/decoder.png" height="20%" width="20%" align="center">
 
 <p> As evidenced above, the Autoencoder does this for the entire image at one go </p>
 
