@@ -8,8 +8,9 @@
 <h2>Traditional Autoencoder</h2>
 
 <p> An Autoencoder for images works in two phases. A encoding phase, where the image is "encoded" into a particular latent space size, as seen below: </p>
-
-<img src="architecture/encoder.png" height="50%" width="50%" align="center">
+<div style="display:table-cell; vertical-align:middle; text-align:center">
+<img src="architecture/encoder.png" height="50%" width="50%">
+</div>
 
 <p> And a decoding phase, where the Neural Network "decodes" the entire image back using the latent code it was intially crunched into, as seen below:</p>
 
