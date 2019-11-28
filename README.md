@@ -16,5 +16,14 @@
 <p align="center">
 <img src="architecture/decoder.png" height="25%" width="25%" align="center">
 </p>
-<p> As evidenced above, the entire image is fed into the Autoencoder at one go, to encoder and decode from a single latent space</p>
+<p> As evidenced above, the entire image is fed into the Autoencoder at one go, to encoder and decode from a single latent space.</p>
 
+
+<h2> Channel-Specific-Autoencoder </h2>
+
+<p> My design of a Channel-Specific-Autoencoder involves splitting the image into seperate colour channels of R, G, and B and feeding them to three seperate encoders to encoder into separate latent-spaces and decode the individual channels from seperately, and stack together to reconstruct the entire image. A depiction of it can be seen below: </p>
+
+<p align="center">
+  <img src="architecture/csae.png>
+</p>
+  
