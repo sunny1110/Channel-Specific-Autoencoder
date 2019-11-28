@@ -47,4 +47,4 @@
 
 <br/>
 <p> As seen in a lot of the results, the colour in the CS-Autoencoder appear more "true" compared to a Traditional Autoencoder. </p>
-<p> <i> Notes: Both Autoencoders have the images encoded into the same net latent space size of 96 (32*3 in the case of the CS-Autencoder) </i> </p>
+<p> <i><b> Note:</b> Both Autoencoders have the images encoded into the same net latent space size of 96 (32*3 in the case of the CS-Autencoder) </i> </p>
