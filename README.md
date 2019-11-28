@@ -2,7 +2,9 @@
 
 <p>An <a href= "https://en.wikipedia.org/wiki/Autoencoder"> Autoencoder </a> is an Artifical Neural Network that is trained to "encode" a given input into a specified latent space, and conversely reconstruct input from this latent space by "decoding" it. The application of such neural networks range all the way from data compression to denoising. </p>
 
-<img src="architecture/autoencoder.png" alt="autoencoder">
+<img src="architecture/autoencoder.png" alt="autoencoder"></img>
+
+<br/>
 
 <h2> Traditional Autoencoder <h2>
 
