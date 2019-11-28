@@ -21,9 +21,12 @@
 
 <h2> Channel-Specific-Autoencoder </h2>
 
-<p> My design of a Channel-Specific-Autoencoder involves splitting the image into seperate colour channels of R, G, and B and feeding them to three seperate encoders to encoder into separate latent-spaces and decode the individual channels from seperately, and stack together to reconstruct the entire image. A depiction of it can be seen below: </p>
+<p> My design of a Channel-Specific-Autoencoder involves splitting the image into seperate colour channels of R, G, and B and feeding them to three seperate encoders to encoder into separate latent-spaces and decode the individual channels from seperately, and stack together to reconstruct the entire image. A depiction of it can be seen below: </p> <br/>
 
 <p align="center">
   <img src="architecture/GSN_final.png" height="75%" width="75%">
 </p>
   
+<h3> The Motivation </h3>
+
+<p> The primary motivation for such an architecture was to "divide labour". As opposed to having a single autoencoder reconstruct the entire image, the proposed model "outsources" reconstructing individual colour channels to 3 separate autoencoders, thereby working in unison to generate the entire image. </p>
