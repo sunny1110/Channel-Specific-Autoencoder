@@ -8,7 +8,7 @@
 <h2>Traditional Autoencoder</h2>
 
 <p> An Autoencoder for images works in two phases. A encoding phase, where the image is "encoded" into a particular latent space size, as seen below: </p>
-<div style="display:table-cell; vertical-align:middle; text-align:center">
+<div style="display: flex; justify-content: center;">
 <img src="architecture/encoder.png" height="20%" width="20%">
 </div>
 
