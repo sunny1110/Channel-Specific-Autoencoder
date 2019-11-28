@@ -6,7 +6,7 @@
 
 <br/>
 
-<h2> Traditional Autoencoder <h2>
+<h1> Traditional Autoencoder <h1>
 
 <p> An Autoencoder for images works in two phases. A encoding phase, where the image is "encoded" into a particular latent space size, as seen below. </p>
 
