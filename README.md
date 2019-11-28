@@ -24,6 +24,6 @@
 <p> My design of a Channel-Specific-Autoencoder involves splitting the image into seperate colour channels of R, G, and B and feeding them to three seperate encoders to encoder into separate latent-spaces and decode the individual channels from seperately, and stack together to reconstruct the entire image. A depiction of it can be seen below: </p>
 
 <p align="center">
-  <img src="architecture/csae.png>
+  <img src="architecture/GSN_final.png>
 </p>
   
