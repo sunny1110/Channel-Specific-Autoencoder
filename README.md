@@ -9,7 +9,7 @@ This is an implementation of my research idea: A Channel-Specific Autoencoder in
 
 <h3> Traditional Autoencoder <h3>
 
-<p> An Autoencoder for images works in two phases. A encoding phase, where the image is "encoded" into a particular latent space size, as seen below.
+<p> An Autoencoder for images works in two phases. A encoding phase, where the image is "encoded" into a particular latent space size, as seen below. </p>
 
 <img src="architecture/encoder.png">
 
