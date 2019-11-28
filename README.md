@@ -32,11 +32,16 @@
 <p> The primary motivation for such an architecture was to "divide labour". As opposed to having a single autoencoder reconstruct the entire image, the proposed model "outsources" reconstructing individual colour channels to 3 separate autoencoders, thereby working in unison to generate the entire image. </p>
 
 
-<h2> Results </h2>
+<h2>Comparative Results: </h2>
 
 <p> A few of the results can be seen below: </p>
 
+<p align="center">
 <img src="results/1.png"> </img>
 <img src="results/2.png"> </img>
 <img src="results/1a.png"> </img>
 <img src="results/2a.png"> </img>
+</p>
+
+<br/>
+<p> As seen in a lot of the results, the colour in the CS-Autoencoder appear more "true" compared to a Traditional Autoencoder </p>
