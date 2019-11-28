@@ -36,7 +36,7 @@
 
 <p> A few of the results can be seen below: </p>
 
-<img src="results/1.png> </img>
-<img src="results/2.png> </img>
-<img src="results/1a.png> </img>
-<img src="results/2a.png> </img>
+<img src="results/1.png"> </img>
+<img src="results/2.png"> </img>
+<img src="results/1a.png"> </img>
+<img src="results/2a.png"> </img>
